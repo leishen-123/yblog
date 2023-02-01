@@ -2,7 +2,7 @@
 基于 SpringBoot 2.0.4.RELEASE + Mybatis + MySQL + Vue + Element 搭建的个人博客。
 
 博客访问地址：[杨号个人博客：http://imyanger.com](http://imyanger.com)。
-
+fox
 ### 前言 ###
 该项目采用前后端分离，后端主要采用SpringBoot + Mybatis + MySQL ，前端基于Vue  + Element 。
 
